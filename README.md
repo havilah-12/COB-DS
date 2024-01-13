@@ -17,5 +17,5 @@ file is uploaded as task_2_phase_1
 # Phase 2 - Task 2.Train a simple linear regressing model on dataset and predict the output.
 https://docs.google.com/spreadsheets/d/e/2PACX-1vRTK2NvcndgPX41Czu6Ft2Ho_nE-z50BgTqdzwFW0rsJ2nvyNLe2DoIg1COzUbgw80oaRBjfy5-WtFk/pubhtml
 https://docs.google.com/spreadsheets/d/e/2PACX-1vRyvZ7lknwiSghK9aen1SaTEYoN3JS40rrGLpcyrsVZy1tB2T4gn6Y3-cdzPUFCPMmmqREWefW3kl4_/pubhtml
-After Downloading the train and test datasets,I did Data processing,Train-test split,model intialization,model training and  model evalution,predictions and visulaizations.
+After Downloading the train and test datasets,I did Data processing,Train-test split,model intialization,model training and  model evalution,predictions and visulaizations. First with evaluting the linear regression model and predicting the output, I have done Decision Tree,Random Forest,SVM and KNN model Predictions along with calculating the mean square error and visualizations for each model .
 file is uploaded as task_2_phase_2
