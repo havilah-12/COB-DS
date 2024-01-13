@@ -1,8 +1,8 @@
 # COB-DS
 # Description
 
-# Phase 1 - Task 1. Created a Nasa APOD data set  - (Create a csv dataset using python , pandas and any public api)
-the created data set is uploaded in the main branch as nasa_apod.csv.It is created using nasa public api of APOD(Astronomy pic of the day)
+# Phase 1 - Task 1. Create a csv dataset using python , pandas and any public api - Created a Nasa APOD data set 
+The created data set is uploaded in the main branch as nasa_apod.csv.It is created using nasa public api of APOD(Astronomy pic of the day)
 ![Screenshot 2024-01-06 132902](https://github.com/havilah-12/COB-DS/assets/142531190/d216acf6-a54b-48ac-9a32-1b697809b3dc)
 
 
