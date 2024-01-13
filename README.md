@@ -14,11 +14,6 @@ Basically, I did the data cleaning and data pre-processing here : Indentfied the
 file is uploaded as task_2_phase_1
 
 
-# Phase 2 - Task 1.Analyzing the netflix dataset and create graphs using seaborn and matplotlib.
-dataset:https://docs.google.com/spreadsheets/d/e/2PACX-1vTSS-TcErkXNk8KB0AlijhitwetxeHD2M3R0HJl2QPMAyFq0fxFX4PFKnzAWLDnratIz67DNL6GsZnV/pub?output=csv
-I have done Data Exploration,Feature Selection,Univariate,Bivariate and Multivariate analysis and Time series Analysis and provided insights and iterpretation.
-file is uploaded as task_1_phase_2
-
 # Phase 2 - Task 2.Train a simple linear regressing model on dataset and predict the output.
 https://docs.google.com/spreadsheets/d/e/2PACX-1vRTK2NvcndgPX41Czu6Ft2Ho_nE-z50BgTqdzwFW0rsJ2nvyNLe2DoIg1COzUbgw80oaRBjfy5-WtFk/pubhtml
 https://docs.google.com/spreadsheets/d/e/2PACX-1vRyvZ7lknwiSghK9aen1SaTEYoN3JS40rrGLpcyrsVZy1tB2T4gn6Y3-cdzPUFCPMmmqREWefW3kl4_/pubhtml
